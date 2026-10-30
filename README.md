@@ -15,5 +15,6 @@ bun dev
 ```
 
 Projeto roda na porta 3000.
-localhost:3000
+
+Esse repositório foi clonado. Única alteração pessoal foi mudança em src/app/page.js, onde uma poderosa crítica social foi inserida.
 
